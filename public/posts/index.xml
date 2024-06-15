@@ -2,18 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Bists place</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content on Bists place</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>shaolong.chen@outlook.it (Shaolong Chen)</managingEditor>
-    <webMaster>shaolong.chen@outlook.it (Shaolong Chen)</webMaster>
     <lastBuildDate>Sat, 15 Jun 2024 18:19:39 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ipod</title>
       <link>http://localhost:1313/posts/ipod/</link>
-      <pubDate>Sat, 15 Jun 2024 18:19:39 +0200</pubDate><author>shaolong.chen@outlook.it (Shaolong Chen)</author>
+      <pubDate>Sat, 15 Jun 2024 18:19:39 +0200</pubDate>
       <guid>http://localhost:1313/posts/ipod/</guid>
       <description>Reviving Your iPod: A Guide to Upgrading Storage and Replacing the Battery If you&amp;rsquo;re a nostalgic music lover or simply a tech enthusiast, you might have an old iPod lying around. Instead of letting it gather dust, why not breathe new life into it by upgrading its storage and replacing the battery? In this guide, inspired by the excellent resources over at Elite Obsolete, we&amp;rsquo;ll walk you through the steps to mod your iPod, transforming it into a modern, high-capacity music player.</description>
       <content:encoded><![CDATA[<h1 id="reviving-your-ipod-a-guide-to-upgrading-storage-and-replacing-the-battery">Reviving Your iPod: A Guide to Upgrading Storage and Replacing the Battery</h1>
