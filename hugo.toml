@@ -1,60 +1,50 @@
-baseURL = 'https://bist.be/'
+baseURL = 'https://bist.be'
 languageCode = 'en-us'
 title = 'Bists place'
-theme = 'hugo-simple'
+theme = 'archie'
+copyright = "© Bist"
 
-# Generate a nice robots.txt for SEO
-enableRobotsTXT = true
+# Code Highlight
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
 
-# https://github.com/gohugoio/hugo/issues/12152
-capitalizeListTitles = false
 
-# Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
-disableKinds = ["taxonomy"]
-# ignoreErrors = ["error-disable-taxonomy"]
-[taxonomies]
-tag = "tags"
-
-[permalinks]
-blog = "/:slugorfilename/"
-tags = "/blog/:slug"
-
-[markup.goldmark.renderer]
-unsafe = true
-[markup.tableOfContents]
-startLevel = 2
-endLevel = 3
-[markup.highlight]
-lineNos = true
-lineNumbersInTable = false
-noClasses = true
-style = "catppuccin-mocha"
+paginate=3 # articles per page
 
 [params]
-title = "Hugo Simple"
-description = "Hugo Simple Demo"
-favicon = "images/favicon.png"
-dateFormat = "2006-01-02"
-hideMadeWithLine = false
-hideRSSLink = false
-[params.author]
-name = "Shaolong Chen"
-email = "shaolong.chen@outlook.it"
+	mode="auto" # color-mode → light,dark,toggle or auto
+	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
+	mathjax = true # enable MathJax support
+	katex = true # enable KaTeX support
+
+  # Social Tags
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/gverbist"
+
+
+
+# Main menu Items
 
 [[menu.main]]
 name = "Home"
-pageRef = "/"
-weight = 10
+url = "/"
+weight = 1
+
 [[menu.main]]
-name = "Blog"
-pageRef = "/blog"
-weight = 20
+name = "All posts"
+url = "/posts"
+weight = 2
 
-[services.rss]
-limit = 42
 
-[outputs]
-# Generate RSS for home only.
-section = ["html"]
-taxonomy = ["html"]
-term = ["html"]
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3
+
+
+
+

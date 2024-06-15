@@ -1,61 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bists place</title>
-    <link>http://localhost:1313/</link>
+    <link>https://bist.be/</link>
     <description>Recent content on Bists place</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <managingEditor>shaolong.chen@outlook.it (Shaolong Chen)</managingEditor>
-    <webMaster>shaolong.chen@outlook.it (Shaolong Chen)</webMaster>
-    <lastBuildDate>Sat, 15 Jun 2024 18:19:39 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Bist</copyright>
+    <lastBuildDate>Sat, 15 Jun 2024 19:28:30 +0200</lastBuildDate>
+    <atom:link href="https://bist.be/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ipod</title>
-      <link>http://localhost:1313/posts/ipod/</link>
-      <pubDate>Sat, 15 Jun 2024 18:19:39 +0200</pubDate><author>shaolong.chen@outlook.it (Shaolong Chen)</author>
-      <guid>http://localhost:1313/posts/ipod/</guid>
-      <description>Reviving Your iPod: A Guide to Upgrading Storage and Replacing the Battery If you&amp;rsquo;re a nostalgic music lover or simply a tech enthusiast, you might have an old iPod lying around. Instead of letting it gather dust, why not breathe new life into it by upgrading its storage and replacing the battery? In this guide, inspired by the excellent resources over at Elite Obsolete, we&amp;rsquo;ll walk you through the steps to mod your iPod, transforming it into a modern, high-capacity music player.</description>
-      <content:encoded><![CDATA[<h1 id="reviving-your-ipod-a-guide-to-upgrading-storage-and-replacing-the-battery">Reviving Your iPod: A Guide to Upgrading Storage and Replacing the Battery</h1>
-<p><img src="https://example.com/modded_ipod_image.jpg" alt="Modded iPod"></p>
-<p>If you&rsquo;re a nostalgic music lover or simply a tech enthusiast, you might have an old iPod lying around. Instead of letting it gather dust, why not breathe new life into it by upgrading its storage and replacing the battery? In this guide, inspired by the excellent resources over at <a href="https://www.eliteobsolete.com/">Elite Obsolete</a>, we&rsquo;ll walk you through the steps to mod your iPod, transforming it into a modern, high-capacity music player.</p>
-<h2 id="why-mod-your-ipod">Why Mod Your iPod?</h2>
-<p>iPods, especially the classic models, are revered for their simplicity and sound quality. However, their aging hardware can be a limitation. Here are a few reasons to consider modding your iPod:</p>
-<ol>
-<li><strong>Increased Storage</strong>: Modern flash storage can vastly increase your iPod&rsquo;s capacity, allowing you to carry more of your music library.</li>
-<li><strong>Improved Battery Life</strong>: A new battery can restore or even surpass the original battery life, making your iPod more reliable for long listening sessions.</li>
-<li><strong>Enhanced Performance</strong>: Flash storage can offer faster performance and more reliability compared to aging hard drives.</li>
-</ol>
-<h2 id="what-youll-need">What You&rsquo;ll Need</h2>
-<p>Before you begin, gather the following tools and parts:</p>
-<ul>
-<li><strong>Replacement Battery</strong>: Ensure it&rsquo;s compatible with your iPod model.</li>
-<li><strong>Flash Storage Adapter</strong>: This will allow you to replace the old hard drive with a modern flash storage solution.</li>
-<li><strong>Flash Storage (SD/CF Card)</strong>: Choose a storage size that suits your needs.</li>
-<li><strong>Opening Tools</strong>: A set of plastic spudgers and a small screwdriver.</li>
-<li><strong>Adhesive Strips</strong>: For securing the new battery.</li>
-<li><strong>iPod Repair Guide</strong>: Detailed instructions specific to your iPod model (available on Elite Obsolete).</li>
-</ul>
-<h2 id="step-by-step-guide">Step-by-Step Guide</h2>
-<h3 id="1-open-the-ipod">1. Open the iPod</h3>
-<p>Carefully open your iPod using the plastic spudgers. Insert the spudger between the front and back casing, gently prying them apart. Be patient and work slowly to avoid damaging the casing.</p>
-<h3 id="2-disconnect-the-battery">2. Disconnect the Battery</h3>
-<p>Once open, locate the battery connector on the logic board. Use a small screwdriver or a spudger to disconnect the battery. Be cautious to avoid damaging the connector or the logic board.</p>
-<h3 id="3-remove-the-old-hard-drive">3. Remove the Old Hard Drive</h3>
-<p>Next, disconnect the hard drive. It’s typically held in place by a small ribbon cable. Gently lift the cable to detach the hard drive from the logic board. Remove the hard drive from its cradle.</p>
-<h3 id="4-install-the-flash-storage">4. Install the Flash Storage</h3>
-<p>Insert your flash storage card into the flash storage adapter. Then, connect the adapter to the iPod&rsquo;s hard drive ribbon cable. Place the adapter securely in the hard drive cradle.</p>
-<h3 id="5-replace-the-battery">5. Replace the Battery</h3>
-<p>Connect your new battery to the logic board. Use adhesive strips to secure the battery in place, ensuring it doesn’t move around inside the casing.</p>
-<h3 id="6-reassemble-the-ipod">6. Reassemble the iPod</h3>
-<p>Carefully close the iPod casing, ensuring all clips are aligned and securely fastened. Power on your iPod to test the new battery and storage. You may need to restore the iPod using iTunes or an alternative software like Rockbox.</p>
-<h3 id="7-restore-and-enjoy">7. Restore and Enjoy</h3>
-<p>Once everything is assembled and tested, restore your iPod using iTunes. Load your music library and enjoy the enhanced capacity and battery life.</p>
-<h2 id="conclusion">Conclusion</h2>
-<p>Modding your iPod is a rewarding project that can significantly extend the life and functionality of your beloved device. By following this guide, you can enjoy more music with improved performance and reliability. For more detailed instructions and support, be sure to visit <a href="https://www.eliteobsolete.com/">Elite Obsolete</a>.</p>
-<p>Happy modding!</p>
-<p><img src="https://example.com/happy_listening_image.jpg" alt="Happy Listening"></p>
-]]></content:encoded>
+      <title>Using GPG Keys for SSH Authentication</title>
+      <link>https://bist.be/posts/gpg/</link>
+      <pubDate>Sat, 15 Jun 2024 19:28:30 +0200</pubDate>
+      <guid>https://bist.be/posts/gpg/</guid>
+      <description>Using GPG Keys for SSH Authentication: A Step-by-Step Guide In this blog post, we will explore how to use GPG keys for SSH authentication. GPG (GNU Privacy Guard) keys offer an added layer of security compared to traditional SSH keys. We will cover the process of generating GPG keys, configuring them for SSH, and connecting to remote servers. Let&amp;rsquo;s dive in!&#xA;Introduction SSH (Secure Shell) is a protocol used to securely connect to remote servers.</description>
     </item>
   </channel>
 </rss>
