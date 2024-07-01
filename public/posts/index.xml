@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Bist</copyright>
-    <lastBuildDate>Sat, 15 Jun 2024 19:28:30 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 15:44:16 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arch_tuxedo</title>
+      <link>http://localhost:1313/posts/arch_tuxedo/</link>
+      <pubDate>Mon, 01 Jul 2024 15:44:16 +0200</pubDate>
+      <guid>http://localhost:1313/posts/arch_tuxedo/</guid>
+      <description>content</description>
+    </item>
     <item>
       <title>Using GPG Keys for SSH Authentication</title>
       <link>http://localhost:1313/posts/gpg/</link>
