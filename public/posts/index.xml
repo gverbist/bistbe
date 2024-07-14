@@ -2,25 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Bists place</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://bist.be/posts/</link>
     <description>Recent content in Posts on Bists place</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Bist</copyright>
-    <lastBuildDate>Mon, 01 Jul 2024 15:44:16 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Arch_tuxedo</title>
-      <link>http://localhost:1313/posts/arch_tuxedo/</link>
-      <pubDate>Mon, 01 Jul 2024 15:44:16 +0200</pubDate>
-      <guid>http://localhost:1313/posts/arch_tuxedo/</guid>
-      <description>content</description>
-    </item>
+    <lastBuildDate>Sat, 15 Jun 2024 19:28:30 +0200</lastBuildDate>
+    <atom:link href="https://bist.be/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using GPG Keys for SSH Authentication</title>
-      <link>http://localhost:1313/posts/gpg/</link>
+      <link>https://bist.be/posts/gpg/</link>
       <pubDate>Sat, 15 Jun 2024 19:28:30 +0200</pubDate>
-      <guid>http://localhost:1313/posts/gpg/</guid>
+      <guid>https://bist.be/posts/gpg/</guid>
       <description>Using GPG Keys for SSH Authentication: A Step-by-Step Guide In this blog post, we will explore how to use GPG keys for SSH authentication. GPG (GNU Privacy Guard) keys offer an added layer of security compared to traditional SSH keys. We will cover the process of generating GPG keys, configuring them for SSH, and connecting to remote servers. Let&amp;rsquo;s dive in!&#xA;Introduction SSH (Secure Shell) is a protocol used to securely connect to remote servers.</description>
     </item>
   </channel>
